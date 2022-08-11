@@ -1,0 +1,2 @@
+# PCA_and_Clustering_for_Wine_Dataset
+Perform Principal Component Analysis (PCA) and perform clustering using first 3 principal component scores (Both Heirarchial and KMeans clustering-Scree Plot or Elbow Curve. Obtain the optimum number of clusters and check whether we have obtained same number of clusters with the original data (Class column we have ignored at the begining who shows it has 3 clusters) df
